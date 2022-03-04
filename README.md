@@ -10,7 +10,7 @@
 
           # Hotel-management-System
           
-In this project, we will see, how we can develop a hotel management system project using Python with source code. We are living in the digital world and IT sectors are growing very Fastly. In this Era, everybody likes to book their hotel rooms online and wants to save their precious time. That’s why most hotels are very popular because of ola, uber, OYO, etc because they provide us with Technology and book hotels online. Most people are booking their hotels via the website or android application and payments are also made through UPI apps such as PhonePay, Google pay, Paytm, etc.
+In this project, we will see, how we can develop a hotel management system project using Python . We are living in the digital world and IT sectors are growing very Fastly. In this Era, everybody likes to book their hotel rooms online and wants to save their precious time. That’s why most hotels are very popular because of ola, uber, OYO, etc because they provide us with Technology and book hotels online. Most people are booking their hotels via the website or android application and payments are also made through UPI apps such as PhonePay, Google pay, Paytm, etc.
 
 
 
