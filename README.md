@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @sushilkanathia
 - 👀 I’m interested in Artifical Intelligence and Ethical Hacking
 - 🌱 I’m currently learning Advance Python Programming 
-- 💞️Join me you me upcoming projects @sushil_kanathia(instagram)
+- 💞️Join me for my upcoming project @sushilkanathia
 - 📫 You can also drop a mail at sushilkanathia6@gmail.com
 
 
